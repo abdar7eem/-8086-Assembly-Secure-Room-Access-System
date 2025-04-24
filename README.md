@@ -17,11 +17,9 @@ Employees are required to input:
 
 Once entered, the program checks the credentials and displays:
 
-Access Allowed
-
+**Access Allowed**
 or
-
-Access Denied
+**Access Denied**
 
 
 based on whether the credentials match the stored encrypted data.
@@ -82,7 +80,7 @@ Passwords are encrypted using the described scheme **before** being stored in me
 
 - `CODE_ASM.asm` – Complete 8086 Assembly source code.
 - `Assembly_Project.pdf` – Project assignment description and requirements.
-
+- `Project_Report.pdf` – Project Report shows our solution by providing screenshots.
 ---
 
 ## 📚 Acknowledgments
